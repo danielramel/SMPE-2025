@@ -20,7 +20,7 @@ Key lesson: Use checklist:
 
 
 Good Graphics Critique:
-[Criticism of 4 figures](./criticism.pdf)
+[Criticism of 4 figures](./homework.md)
 
 
 ## Challenger Analysis: What went wrong with the Challenger data visualization ##
