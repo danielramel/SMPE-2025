@@ -17,7 +17,7 @@ Key lesson: Use checklist:
     Information - Scale consistency, data density, relevance
     Context - Title, self-containment, source citation
 
-
+### HOMEWORK ###
 
 Good Graphics Critique:
 [Figure Criticism](./homework.md)

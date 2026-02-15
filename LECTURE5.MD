@@ -13,5 +13,3 @@ take time to understand what each variable means, and understand their propertie
 univariate vs multivariate data (univariate = one variable, multivariate = multiple variables)
 
 ESTIMATION
-
-
