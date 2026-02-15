@@ -1,4 +1,4 @@
-Unfortunately I did not have access to the original report as the jupyter server online would not turn on. I have tried to replicate the analyses as best as I could based on the data available online. I have also added some additional analyses that I thought were interesting.
+Unfortunately I did not have access to the original report as the jupyter server online would not start up ([text](https://app-learninglab.inria.fr/moocrr/jupyter/hub/spawn-pending/350d9015141906c24dd1605b63bbe76a?next=%2Fmoocrr%2Fjupyter%2Fuser%2Fme%2Ftree%2Fwork%2Fmodule2%2Fexo5%2Fexo5_en.ipynb)). I have tried to replicate the analyses as best as I could based on the data available online. I have also added some additional analyses that I thought were interesting.
 
 ## Main Analysis
 
