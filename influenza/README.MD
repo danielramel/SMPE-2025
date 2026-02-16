@@ -1,1 +1,1 @@
-I could not access the influena jupyter notebook also so I did a little analysis on Acute Respiratory Infection Analysis in France. I know this is vastly different, but I found it interesting either ways. [Report](main.ipynb)
+I could not access the influenza jupyter notebook also so I did a little analysis on Acute Respiratory Infection Analysis in France. I know this is vastly different, but I found it interesting either ways. [Report](main.ipynb)
